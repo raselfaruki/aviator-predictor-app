@@ -1,6 +1,5 @@
-```txt
+txt
 streamlit
 numpy
 pandas
 matplotlib
-```
