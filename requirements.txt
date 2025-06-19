@@ -1,0 +1,6 @@
+```txt
+streamlit
+numpy
+pandas
+matplotlib
+```
