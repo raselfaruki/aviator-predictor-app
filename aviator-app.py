@@ -1,5 +1,5 @@
 
-```python
+python
 import streamlit as st
 import random
 import numpy as np
@@ -71,4 +71,3 @@ if st.session_state.results:
 if st.button("🔄 নতুন করে শুরু করুন"):
     st.session_state.results = []
     st.warning("রেজাল্ট লিস্ট ক্লিয়ার করা হয়েছে।")
-```
